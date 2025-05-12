@@ -1,8 +1,17 @@
 # Expense Tracker Application
-
-
-
 A Java Swing application for tracking personal expenses with MySQL backend and data visualization.
+
+expense-tracker/
+│
+├── src/
+│   └── ExpenseTracker.java
+│
+├── lib/
+│   └── mysql-connector-java-8.0.28.jar (or your version)
+│
+├── .gitignore
+├── README.md
+└── setup_database.sql
 
 ## Features
 
