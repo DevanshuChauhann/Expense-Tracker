@@ -1,7 +1,13 @@
 # Expense Tracker Application
 A Java Swing application for tracking personal expenses with MySQL backend and data visualization.
 
+![Screenshot 2025-05-12 222949](https://github.com/user-attachments/assets/775c7d9f-a757-422e-9620-94845adc1f17)
 
+
+![Screenshot 2025-05-12 223124](https://github.com/user-attachments/assets/3b374c6f-3a93-4e31-8d41-21f53a2a3495)
+![Screenshot 2025-05-12 223114](https://github.com/user-attachments/assets/b66b0a53-394a-4b58-a268-5d8e2a4f962a)
+![Screenshot 2025-05-12 223107](https://github.com/user-attachments/assets/ba38ad1b-af9b-403b-a642-7334811e2c66)
+![Screenshot 2025-05-12 223038](https://github.com/user-attachments/assets/c2851a1d-a543-441f-aead-b988bc0e97a4)
 ## Features
 
 - Add, view, and delete expenses
