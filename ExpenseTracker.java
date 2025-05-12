@@ -22,8 +22,8 @@ public class ExpenseTracker extends JFrame {
 
     public static class DatabaseHelper {
         private static final String URL = "jdbc:mysql://localhost:3306/ExpenseTracker";
-        private static final String USER = "as2469"; 
-        private static final String PASSWORD = "Iambatman123@"; 
+        private static final String USER = "root"; 
+        private static final String PASSWORD = "root"; 
         private static final DateTimeFormatter DATE_FORMATTER = DateTimeFormatter.ofPattern("yyyy-MM-dd");
 
         public static Connection getConnection() throws SQLException {
